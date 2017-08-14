@@ -1,13 +1,14 @@
 {
   "name": "tft",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "It's Like This for That",
-  "main": "index.js",
+  "main": "main.js",
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": "./main.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/monochromicon/tft.git"
