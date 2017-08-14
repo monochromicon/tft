@@ -1,0 +1,29 @@
+{
+  "name": "tft",
+  "version": "1.0.0",
+  "description": "It's Like This for That",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monochromicon/tft.git"
+  },
+  "keywords": [
+    "this",
+    "that",
+    "startup",
+    "ideas",
+    "cli",
+    "api"
+  ],
+  "author": "Graham Barber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monochromicon/tft/issues"
+  },
+  "homepage": "https://github.com/monochromicon/tft#readme"
+}
